@@ -3,7 +3,7 @@
   <head>
     <center>
     <h1> welcome to the webapplication page</h1>
-    <title> create your own webpage </title>
+    
   </head>
   <body bgcolor="lightblue">
     <h1>Background colour using bgcolor</h1>
@@ -13,6 +13,7 @@
     <h1>enter your phonenumber</h1>
     <h1>(* *)
         ( * ) </h1> 
+    <h1> this is your new webpage
     <h1>THANK YOU</h1>
     </center>
   </body>
