@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    welcome to the webapplication page
+    <center>
+    <h1> welcome to the webapplication page</h1>
     <title> create your own webpage </title>
   </head>
   <body bgcolor="lightblue">
@@ -9,5 +10,7 @@
     <br>
     <h1>enter your name</h1>
     <h1>enter your address</h1>
+    <h1>THANK YOU</h1>
+    </center>
   </body>
 </html>
