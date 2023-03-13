@@ -10,6 +10,9 @@
     <br>
     <h1>enter your name</h1>
     <h1>enter your address</h1>
+    <h1>enter your phonenumber</h1>
+    <h1>(* *)
+        ( * ) </h1> 
     <h1>THANK YOU</h1>
     </center>
   </body>
