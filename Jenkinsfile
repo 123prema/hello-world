@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment{
-        PATH="/opt/apache-maven-3.9.0/bin:$PATH"
+        PATH="/opt/apache-maven-3.9.1/:$PATH"
     }
 
     stages {
