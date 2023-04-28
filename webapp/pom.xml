@@ -38,9 +38,7 @@
       <groupId>javax.servlet.jsp</groupId>
       <artifactId>jsp-api</artifactId>
       <scope>provided</scope>
-    </dependency>
-           <thank you>
-                    
-  </dependencies>
+      </dependency>
+      </dependencies>
 
 </project>
